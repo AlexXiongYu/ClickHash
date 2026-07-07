@@ -18,5 +18,29 @@
 1. 确保电脑已安装 [Python 3.x](https://www.python.org/)。
 2. 克隆或下载本仓库中的 `ClickHash.py` 文件。
 3. 双击运行，或在终端中执行：
-   ```bash
-   python ClickHash.py
+```bash
+python ClickHash.py
+```
+
+### 方式二：打包成独立 .exe 程序 (无需 Python 环境)
+
+如果你想发给没有安装 Python 的朋友使用，可以使用 PyInstaller 进行打包：
+
+1. 安装打包工具：
+```bash
+pip install pyinstaller
+```
+2. 执行单文件打包命令：
+```bash
+pyinstaller -F ClickHash.py
+```
+3. 在生成的 `dist` 文件夹中找到 `ClickHash.exe`，发给任何人双击即可使用！
+
+## 💡 使用截图
+
+<img width="1751" height="1048" alt="image" src="https://github.com/user-attachments/assets/0120361b-19ef-4daf-a701-0e824155983e" />
+
+
+## 📄 协议
+
+本项目基于 MIT 协议开源，欢迎自由使用和修改。
