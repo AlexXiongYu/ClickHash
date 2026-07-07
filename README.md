@@ -44,7 +44,7 @@ pyinstaller -F ClickHash.py
 
 ### 💡 Screenshots
 
-*(Paste your program's running screenshot here. GitHub will automatically convert it into an image link.)*
+<img width="1751" height="1048" alt="image" src="https://github.com/user-attachments/assets/0120361b-19ef-4daf-a701-0e824155983e" />
 
 ### 📄 License
 
@@ -92,7 +92,7 @@ pyinstaller -F ClickHash.py
 
 ### 💡 使用截图
 
-*(在此处粘贴你的程序运行截图，GitHub 会自动将其转换为图片链接)*
+<img width="1751" height="1048" alt="image" src="https://github.com/user-attachments/assets/0120361b-19ef-4daf-a701-0e824155983e" />
 
 ### 📄 协议
 
