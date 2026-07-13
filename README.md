@@ -48,7 +48,7 @@ pyinstaller -F ClickHash.py
 
 ### 📄 License
 
-This project is licensed under the MIT License. Feel free to use and modify it.
+This project is licensed under the MIT License. 
 
 ---
 
@@ -96,4 +96,4 @@ pyinstaller -F ClickHash.py
 
 ### 📄 协议
 
-本项目基于 MIT 协议开源，欢迎自由使用和修改。
+本项目基于 MIT 协议开源。
