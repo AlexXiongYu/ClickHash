@@ -93,7 +93,3 @@ pyinstaller -F ClickHash.py
 ### 💡 使用截图
 
 <img width="1751" height="1048" alt="image" src="https://github.com/user-attachments/assets/0120361b-19ef-4daf-a701-0e824155983e" />
-
-### 📄 协议
-
-本项目基于 MIT 协议开源。
